@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="title">Dictionnaire Turc</string>
+	<string name="install">Base de données dictionnaire est mis en place.\nS'il vous plaît attendre.</string>
+	<string name="about">Sur Dictionnaire</string>
+	<string name="back">Arrière</string>
+	<string name="placeholder">Mot que vous voulez rechercher</string>
+	<string name="no_result">Ce mot n'est pas introuvable que vous voulez rechercher.</string>
+	<string name="french_turkish">Français en Turc</string>
+	<string name="turkish_french">Turc en Français</string>
+	<string name="usage">Ne pas utiliser l'article défini, l'article indéfini et pluriels lorsque vous recherchez des mots français.\n\nNe pas utiliser pluriels et l'article négatif lorsque vous recherchez des mots turc.\n\nPar exemple: "pomme" au lieu de "la pomme" ou "elma" au lieu des "elmalar" ou "yapmak" au lieu de "yapmamak".</string>
+</resources>

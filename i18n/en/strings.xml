@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="title">French Turkish Dictionary</string>
+	<string name="install">Installing dictionary database.\nPlease wait.</string>
+	<string name="about">About</string>
+	<string name="back">Back</string>
+	<string name="placeholder">Enter a word to search</string>
+	<string name="no_result">No translation found.</string>
+	<string name="french_turkish">French Turkish</string>
+	<string name="turkish_french">Turkish French</string>
+	<string name="usage">Do not use noun prefixes like "le", "la" and plural suffixes like "s", "x" when searching a French word.\n\nDo not use plural form suffixes like "ler", "lar" when searching a Turkish words. Use positive forms of verbs instead of negative forms.\n\nFor example: Search "pomme" instead of "la pomme", "elma" instead of "elmalar", "yapmak" instead of "yapmamak".</string>
+</resources>

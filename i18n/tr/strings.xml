@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="title">Fransızca Sözlük</string>
+	<string name="install">Sözlük veritabanı kuruluyor.\nLütfen bekleyiniz.</string>
+	<string name="about">Hakkında</string>
+	<string name="back">Geri</string>
+	<string name="placeholder">Aramak istediğiniz kelime</string>
+	<string name="no_result">Aradığınız kelime bulunamadı.</string>
+	<string name="french_turkish">Fransızca Türkçe</string>
+	<string name="turkish_french">Türkçe Fransızca</string>
+	<string name="usage">Arama yaparken Fransızca kelimelerin başına "le" ve "la" gibi cinsiyet belirten önekleri, kelime sonunda kullanılan "s" ve "x" gibi çoğul eklerini kullanmayınız.\n\nTürkçe kelimelerde ise "ler"  ve "lar" gibi çoğul eklerini kullanmayıp, fiillerin negatif halleri ("memek" ve "mamak" ekleri gibi) kullanmak yerine pozitif hallerini kullanınız.\n\nÖrneğin; "la pomme" yerine "pomme", "elmalar" yerine "elma", "yapmamak" yerine "yapmak" olarak arayabilirsiniz.</string>	
+</resources>
